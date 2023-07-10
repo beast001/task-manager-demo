@@ -10,6 +10,8 @@
 # Laravel Task Manager
 
 This project is a Task Manager built using Laravel and Livewire. It provides a simple yet effective way to manage tasks and track their progress.
+Its a single page application developed with livewire.
+Access the deployed site [here](http://coalitiontechnologies.rf.gd/)
 
 ## Features
 
